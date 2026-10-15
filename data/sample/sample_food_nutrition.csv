@@ -1,0 +1,16 @@
+Food_Name,Category,Calories,Protein,Carbohydrates,Fat,Fiber,Sugar,Sodium,Diet_Type,Meal_Type
+Oats,Grain,389,16.9,66.3,6.9,10.6,0.9,2,Vegetarian,Breakfast
+Banana,Fruit,89,1.1,22.8,0.3,2.6,12.2,1,Vegan,Snack
+Apple,Fruit,52,0.3,13.8,0.2,2.4,10.4,1,Vegan,Snack
+Greek Yogurt,Dairy,59,10.0,3.6,0.4,0.0,3.2,36,Vegetarian,Breakfast
+Brown Rice,Grain,123,2.7,25.6,1.0,1.6,0.2,4,Vegan,Lunch
+Dal,Legume,116,9.0,20.0,0.4,7.9,2.0,2,Vegan,Lunch
+Paneer,Dairy,265,18.3,6.1,20.8,0.0,2.7,22,Vegetarian,Lunch
+Chicken Breast,Meat,165,31.0,0.0,3.6,0.0,0.0,74,Non-Vegetarian,Lunch
+Grilled Fish,Meat,180,26.0,0.0,8.0,0.0,0.0,80,Non-Vegetarian,Dinner
+Tofu,Soy,76,8.0,1.9,4.8,0.3,0.6,7,Vegan,Dinner
+Mixed Nuts,Nuts,607,20.0,21.0,54.0,8.0,4.2,273,Vegan,Snack
+Vegetable Salad,Vegetable,80,3.0,12.0,2.5,4.0,5.0,60,Vegan,Lunch
+Whole Wheat Roti,Grain,297,11.0,55.0,4.0,11.0,2.0,400,Vegan,Dinner
+Eggs,Animal Product,155,13.0,1.1,11.0,0.0,1.1,124,Non-Vegetarian,Breakfast
+Milk,Dairy,61,3.2,4.8,3.3,0.0,5.0,43,Vegetarian,Breakfast
